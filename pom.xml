@@ -11,7 +11,13 @@
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>AdditionLogic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+
 //changes done by QA Visha
+
+
+// This is changes by Developer Maithili
+
 	<name>AdditionLogic</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
